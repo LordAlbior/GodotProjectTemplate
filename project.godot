@@ -1,0 +1,19 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="GodotProjectTemplate"
+config/features=PackedStringArray("4.0", "Forward Plus")
+config/icon="res://icon.svg"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/ColorPreview/plugin.cfg", "res://addons/Todo_Manager/plugin.cfg", "res://addons/copilot/plugin.cfg", "res://addons/easy_velocity_vector_display/plugin.cfg", "res://addons/gdUnit4/plugin.cfg", "res://addons/kanban_tasks/plugin.cfg", "res://addons/panku_console/plugin.cfg", "res://addons/super_spector/plugin.cfg")
