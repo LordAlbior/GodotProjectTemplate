@@ -7,7 +7,7 @@ This project comes with some addons loaded:
 * Color Preview
 * Godot Copilot
 * Easy Velocity Vector Display
-* GDUnit 4
+* GUT
 * Kanban Tasks
 * Super Spector
 * Todo Manager

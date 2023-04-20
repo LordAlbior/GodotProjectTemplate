@@ -16,4 +16,4 @@ config/icon="res://icon.svg"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/ColorPreview/plugin.cfg", "res://addons/Todo_Manager/plugin.cfg", "res://addons/copilot/plugin.cfg", "res://addons/easy_velocity_vector_display/plugin.cfg", "res://addons/gdUnit4/plugin.cfg", "res://addons/kanban_tasks/plugin.cfg", "res://addons/panku_console/plugin.cfg", "res://addons/super_spector/plugin.cfg")
+enabled=PackedStringArray("res://addons/ColorPreview/plugin.cfg", "res://addons/Todo_Manager/plugin.cfg", "res://addons/copilot/plugin.cfg", "res://addons/easy_velocity_vector_display/plugin.cfg", "res://addons/kanban_tasks/plugin.cfg", "res://addons/super_spector/plugin.cfg", "res://addons/gut/plugin.cfg")
